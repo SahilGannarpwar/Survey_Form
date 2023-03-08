@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+
+
+h1 {
+    text-align: center;
+    color: white;
+    font-family: 'Inter', sans-serif;
+}
+
+form {
+    max-width: 500px;
+    color: white;
+    margin: 20px auto;
+    padding: 20px 20px;
+    background-color: rgb(26 33 14 / 59%);
+    font-family: 'Inter', sans-serif;
+    border-radius: 10px;
+}
+
+body {
+    background-image: url(background.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.object{
+
+    width: 95%;
+    margin-bottom: 15px;
+    padding: 10px 10px;
+}
+
+.object input{
+    margin-bottom: 10px;
+}
+
+.formclass{
+
+    margin-bottom: 5px;
+    font-size: 20px;
+}
+
+button{
+    width: 100%;
+    padding: 6px;
+    border-radius: 5px;
+    background-color: #328fb8;
+}
+
